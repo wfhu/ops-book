@@ -1,8 +1,6 @@
 {
   "title": "互联网运维工作总结",
-  "description": "互联网运维工作总结
-
-运维相关技术-案例-思想分享",
+  "description": "互联网运维工作总结  运维相关技术-案例-思想分享",
   "author": "wfhu",
   "plugins": [
     "toggle-chapters",
