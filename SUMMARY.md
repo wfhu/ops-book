@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [运维能力第一阶段--满足业务需求](chapter1.md)
 * [运维能力第二阶段--提供增值服务](chapter2.md)
 * [经验分享--排查问题案例及优化方案](chapter3.md)
