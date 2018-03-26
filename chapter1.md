@@ -58,9 +58,9 @@
 
 **选择知名的IDC机房供应商**
 
-比如选择Equinix机房
+比如选择Equinix、Digital Realty、NTT等提供的机房，一般机房本身的品质有保障。
 
-关于IDC选择的标准，可以参考[UptimeInstitute](https://uptimeinstitute.com/)。
+更多关于IDC选择的标准，可以参考[UptimeInstitute](https://uptimeinstitute.com/)。
 
 #### 1.1.4、选择物理机房的技术准备
 
