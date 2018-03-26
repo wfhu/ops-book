@@ -106,10 +106,6 @@
 
 Capacity managememt
 
-
-
-
-
 -工作案例：
 
 1. 操作系统安装和配置标准化/自动化（kickstart/PXE），云主机模板
@@ -121,7 +117,7 @@ Capacity managememt
 7. CDN引入Cloudflare
 8. 日志分析直接上无服务的架构
 
-二：满足业务发布/变更的能力
+## 二：满足业务发布/变更的能力
 
 运维不能成为阻挡业务发布/变更的障碍
 
