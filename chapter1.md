@@ -44,7 +44,7 @@
 
 成本偏高
 
-知名的厂商有：Softlayer、RackSpace等
+知名的厂商有：Softlayer、RackSpace、NTT等
 
 #### 1.1.3、选择传统物理IDC机房诀窍
 
