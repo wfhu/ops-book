@@ -270,9 +270,21 @@ StackStorm
 
 **基础监控**
 
-这里把需要把整个系统里面比较关心的数据都搜集和监控起来，可以做成统一的模板。![](/assets/dog01.png)
+这里把需要把整个系统里面比较关心的数据都搜集和监控起来，可以做成统一的模板
+
+通过salt+zabbix+python+graphite+grafana，基本可以把一套基础监控的环境自动搭建和维护起来。![](/assets/dog01.png)
 
 **网络监控**
+
+基于smokeping+python+graphite+grafana，数据搜集、上报、展示一条龙全部解决。
+
+![](/assets/dog-network-home.png)![](/assets/dog-network-brief.png)![](/assets/dog-network-detail.png)
+
+网络监控的痛点在于：如何获取稳定、可靠的目标监控点，我有一些经验可以分享：
+
+* 找当地排名靠前的网站的IP地址，比如通过Alexa按国家和地区查找。
+* 查找当地公共的DNS服务器，这种一般很少变动。
+* 通过traceroute用户的真实IP地址，监控中间出现频率较高的公共节点，这种一般是ISP的网关或者路由设备，比较稳定。
 
 **应用监控**
 
