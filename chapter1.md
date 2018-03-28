@@ -328,16 +328,23 @@ splunk
 
 **调用追踪系统**
 
+可以更好地看到内部函数、进程之间的调用关系和延迟信息，方便业务的性能优化等，需要业务配合修改代码。
+
+常见开源工具：
+
 OpenTrace
 
 OpenZipkin
 
--工作案例：
+**知识管理系统**
 
-1. 引入WIKI工具，规范工作文档
-2. 引入puppet/saltstack工具维护线上环境配置，环境可重现
-3. zabbix/smokeping/prometheus/graphite/grafana多维度监控和可视化
-4. 集群基础设施引入CloudFormation/Terraform等工具管理
+把业务相关信息、操作规范和流程、故障历史等等，都通过知识管理系统统一管理起来，沉淀下来，不但利于快速处理问题，人员交接和新人培训也要方便很多。
+
+常用工具有：
+
+Confluence
+
+DokuWiki
 
 ## 四：满足业务对可用性和稳定性要求的能力
 
