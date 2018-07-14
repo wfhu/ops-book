@@ -1,7 +1,3 @@
-# 基础运维（平台运维）工作内容归纳
-
-# 
-
 # 业务运维工作内容归纳
 
 业务整个生命周期中业务运维的作用概括：
@@ -64,8 +60,6 @@
 
 [http://blog.csdn.net/xlh1991/article/details/41632073](http://blog.csdn.net/xlh1991/article/details/41632073)
 
-
-
 ### 附一、一个优秀的运维工程师，应该具备这样一些素质：
 
 1、关心线上业务系统。主要包括监控的全面覆盖和对异常变化的警惕。
@@ -84,8 +78,6 @@
 
 业务运维不要仅仅做执行单位，而是要做能够帮助业务发展的、能够提高业务运行质量的部门
 
-
-
 ### 附二、基础运维/平台运维：
 
 基础运维维护的工具也可以认为是一个个的业务。
@@ -93,4 +85,12 @@
 IDC data center PUE：
 
 [https://www.equinix.nl/company/green/green-data-centers/pue-metrics/](https://www.equinix.nl/company/green/green-data-centers/pue-metrics/)
+
+
+
+
+
+# 基础运维（平台运维）工作内容归纳
+
+
 
