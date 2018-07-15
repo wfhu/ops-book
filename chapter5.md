@@ -86,10 +86,6 @@ IDC data center PUE：
 
 [https://www.equinix.nl/company/green/green-data-centers/pue-metrics/](https://www.equinix.nl/company/green/green-data-centers/pue-metrics/)
 
-
-
-
-
 # 基础运维（平台运维）工作内容归纳
 
 
