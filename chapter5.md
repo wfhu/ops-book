@@ -86,8 +86,6 @@
 
 基础运维维护的工具也可以认为是一个个的业务。那自然也需要关心用户的使用情况：
 
-
-
 基础运维不光是业务运维，还要充当产品经理、产品运营等角色
 
 * 挖掘用户的真实需求
@@ -96,13 +94,11 @@
 * 业务的可用性监控和记录
 * 业务的性能、效率和成本
 
-
-
 IDC data center PUE：
 
 [https://www.equinix.nl/company/green/green-data-centers/pue-metrics/](https://www.equinix.nl/company/green/green-data-centers/pue-metrics/)
 
 # 基础运维（平台运维）工作内容归纳
 
-
+需要做的和能不能做
 
